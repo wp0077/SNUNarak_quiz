@@ -1,0 +1,18 @@
+html, body { 
+  margin: 0;
+  padding: 0;
+  background-color:rgb(255,88,88);
+}
+canvas {
+  display: block;
+}
+select{
+  font-size:1.8rem;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+input{ 
+  font-size:1.8rem;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
